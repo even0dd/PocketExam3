@@ -1,7 +1,7 @@
 public class Main  {
     public static void main(String[] args) {
-        Pocket leftPocket =  new Pocket();
-        Pocket rightPocket =  new Pocket();
+        Something leftPocket = new Something();
+        Something rightPocket = new Something();
 
         leftPocket.ringing();
         rightPocket.rustling();
