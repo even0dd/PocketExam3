@@ -1,7 +1,7 @@
 import interfaces.Ringinable;
 import interfaces.Rustingable;
 
-public class Pocket implements Rustingable,Ringinable{
+public class Something implements Rustingable, Ringinable {
 
 
     @Override
@@ -15,3 +15,4 @@ public class Pocket implements Rustingable,Ringinable{
 
     }
 }
+
